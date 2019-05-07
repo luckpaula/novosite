@@ -1,0 +1,20 @@
+{
+  "name": "novoprojeto",
+  "homepage": "https://github.com/luckpaula/novosite",
+  "description": "",
+  "main": "",
+  "authors": [
+    "lucas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
